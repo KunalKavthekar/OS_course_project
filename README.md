@@ -1,2 +1,5 @@
 # OS_course_project
-This is a simple python project that mimics a primitive OS functions
+# author: Kunal Kavthekar , Sukhdeep Singh Gill
+
+
+This is a python project that mimics the functionality of a primitive OS.
